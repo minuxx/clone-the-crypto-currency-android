@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt
+package com.minux.thecryptocurrency
 
 import org.junit.Test
 
